@@ -1,0 +1,50 @@
+#container {
+    background-image: url("https://lh3.googleusercontent.com/mhvENgei7237jO5YpR_kz21vQnWy3Pno8XhLvKaa7fQZIPDnABoBk_bAWiHudqb26avgyo3DttHmoUd2erjlaERfuSlO0IGyEZlI9eumDR-nQaLhmMX7u8ToekEpSy1llNHQLnkA=w2400");
+    background-size: cover;
+}
+#tabs .nav-tabs {
+    background-color: inherit;
+}
+#roomsContainer2, #usersContainer2, #friendsContainer2 {
+    background-color: inherit;
+}
+
+#footer {
+    background-color: inherit;
+}
+
+#tabs .tab-pane  {
+    background-color: inherit;
+}
+
+#tabs {
+    background-color: inherit;
+}
+#usersContainer {
+    background-color: inherit!important;
+}
+div.message img.userItem {
+    display: none;
+}
+div.message div.timeStamp {
+    display: none;
+}
+div.message div.content {
+    box-shadow: none;
+    border: none;
+    display: inline;
+}
+div.message div.flex-property {
+    display: inline!important;
+}
+.arrow-chat {
+    display: none!important;
+}
+div.message div.userItem {
+    display: inline;
+    font-weight: bold;
+}
+
+div.message div.userItem:after {
+    content: ":";
+}
