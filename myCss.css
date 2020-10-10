@@ -5,26 +5,18 @@ BUTTON, INPUT, OPTGROUP, SELECT, TEXTAREA
 	color: rgba(249, 18, 18, 0.513);
 	margin-right: 0;
 }
-
 #myAvatar
 {
 	padding: 0 10px;
 	cursor: pointer;
 	margin-left: -970px;
 }
-
-
-
 .header-chat-logo
 {
 	max-height: 50px;
 	margin-right: 10px;
 	margin-left: 500px;
 }
-
-
-
-
 .header-chat-logo IMG
 {
 	object-fit: cover;
