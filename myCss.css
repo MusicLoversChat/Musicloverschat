@@ -1,3 +1,28 @@
+div.message img.userItem {
+    display: none;
+}
+div.message div.timeStamp {
+    display: none;
+}
+div.message div.content {
+    box-shadow: none;
+    border: none;
+    display: inline;
+}
+div.message div.flex-property {
+    display: inline!important;
+}
+.arrow-chat {
+    display: none!important;
+}
+div.message div.userItem {
+    display: inline;
+    font-weight: bold;
+}
+
+div.message div.userItem:after {
+    content: ":";
+}
 BUTTON, INPUT, OPTGROUP, SELECT, TEXTAREA
 {
 	margin-left: -1400px;
